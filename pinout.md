@@ -50,6 +50,6 @@ This document details the exact hardware wiring, power distribution rails, and G
                │
                ├───► To ESP32 GPIO 34 (ADC1_CH6)
                │
-              [ ]  10kΩ Fixed Pull-Down Resistor
+             
                │
               GND (0V)
