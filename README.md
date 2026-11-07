@@ -31,7 +31,7 @@ An interactive, environment-aware physical arcade console engineered around the 
 | **LM393 IR Obstacle Sensor** | 1 | Contactless Gesture Detection (Shield) | VIN (5V) / Digital Out |
 | **TTP223 Capacitive Touch Module** | 1 | Player Input / Movement Toggle | 3.3V / Digital Out |
 | **HC-SR501 PIR Motion Sensor** | 1 | Human Presence / Power Management | 5V / Digital Out (3.3V safe) |
-| **LDR (Photoresistor) + 10kΩ Resistor** | 1 | Ambient Room Lighting Voltage Divider | 3.3V / Analog Out |
+| **LDR (Photoresistor)** | 1 | Ambient Room Lighting Voltage Divider | 3.3V / Analog Out |
 | **Active/Passive Buzzer** | 1 | 8-Bit Audio Feedback | 3.3V / Digital Control |
 | **Half-Size Breadboard & Jumper Wires** | 1 | Prototyping & Connections | N/A |
 
